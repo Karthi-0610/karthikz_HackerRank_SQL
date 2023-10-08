@@ -1,0 +1,1 @@
+# karthikz_HackerRank_SQL
